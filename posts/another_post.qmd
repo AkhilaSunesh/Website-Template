@@ -5,13 +5,59 @@ format:
   html:
     df-print: paged
     toc: true
-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-  irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-  deserunt mollit anim id est laborum.
-title: Blogpost Example
+text: البيتزا من أكثر الأطباق شهرة في العالم وتعتبر محبوبة لدى الجميع. إذا كنت ترغب في تحضير بيتزا لذيذة وشهية في المنزل، إليك هذه الوصفة البسيطة
+
+title: كيف تحضر بيتزا لذيذة وشهية؟
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+كيف تحضر بيتزا لذيذة وشهية؟
+البيتزا من أكثر الأطباق شهرة في العالم وتعتبر محبوبة لدى الجميع. إذا كنت ترغب في تحضير بيتزا لذيذة وشهية في المنزل، إليك هذه الوصفة البسيطة:
+
+المكونات:
+للعجينة:
+2 كوب من الدقيق
+1 ملعقة صغيرة من الخميرة الفورية
+1 ملعقة صغيرة من السكر
+1/2 ملعقة صغيرة من الملح
+2 ملعقة كبيرة من زيت الزيتون
+3/4 كوب من الماء الدافئ
+للصلصة:
+1 كوب من صلصة الطماطم
+1 فص ثوم مفروم
+1 ملعقة صغيرة من الزعتر المجفف
+1 ملعقة صغيرة من الريحان المجفف
+1/2 ملعقة صغيرة من السكر
+ملح وفلفل حسب الرغبة
+للتزيين:
+2 كوب من جبنة الموزاريلا المبشورة
+أي إضافات مفضلة (مثل: بيبروني، فطر، زيتون، فلفل، بصل، لحم مفروم، أو أي مكونات أخرى تحبها)
+الطريقة:
+تحضير العجينة:
+
+في وعاء كبير، اخلط الدقيق، الخميرة، السكر، والملح.
+أضف زيت الزيتون والماء الدافئ تدريجياً، واعجن المكونات حتى تحصل على عجينة ناعمة ومرنة.
+ضع العجينة في وعاء مدهون بقليل من الزيت، وغطيها بقطعة قماش واتركها ترتاح لمدة 1 ساعة حتى تتضاعف في الحجم.
+تحضير الصلصة:
+
+في قدر صغير، سخن قليل من الزيت وأضف الثوم المفروم وقلّبه حتى يصبح ذهبي اللون.
+أضف صلصة الطماطم، الزعتر، الريحان، السكر، الملح، والفلفل.
+اترك الخليط يغلي على نار هادئة لمدة 10 دقائق حتى تتكاثف الصلصة.
+تجهيز البيتزا:
+
+سخن الفرن إلى درجة حرارة 220 درجة مئوية (425 درجة فهرنهايت).
+على سطح مغطى بقليل من الدقيق، افرد العجينة بشكل دائري أو مستطيل حسب الرغبة.
+انقل العجينة إلى صينية خبز مدهونة بقليل من الزيت أو مغطاة بورق الخبز.
+ادهن سطح العجينة بصلصة الطماطم المحضرة.
+رش جبنة الموزاريلا المبشورة على الصلصة بالتساوي.
+أضف الإضافات المفضلة لديك على الوجه.
+الخبز:
+
+اخبز البيتزا في الفرن المسخن مسبقًا لمدة 12-15 دقيقة أو حتى تصبح الحواف ذهبية اللون والجبنة ذائبة ومتحمرة قليلاً.
+التقديم:
+
+أخرج البيتزا من الفرن واتركها تبرد قليلاً قبل تقطيعها.
+قدمها ساخنة واستمتع بالطعم اللذيذ.
+نصائح:
+يمكنك إضافة بعض الأعشاب الطازجة مثل الريحان أو الأوريجانو فوق البيتزا قبل التقديم لمزيد من النكهة.
+جرب استخدام أنواع مختلفة من الجبن لإضافة تنوع في النكهة.
+استمتع بتحضير وتناول بيتزا شهية ومميزة في المنزل مع العائلة والأصدقاء!

@@ -2,4 +2,5 @@
 title: "About"
 ---
 
-I'm a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions.
+My name is Akhila Sunesh. I am a second year computer science student with minor in Computational Mathematics at Saintgits College of Engineering, Kottayam, Kerala, India.
+I am an avid learner. I love exploring new domains. 
