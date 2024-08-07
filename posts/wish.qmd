@@ -1,0 +1,15 @@
+---
+categories:
+- blog post
+format:
+  html:
+    df-print: paged
+    toc: true
+text: 
+title: If I were to change one thing, what would it be?
+---
+If I were to change one thing, it would be the cruel fate that befalls many teenagers who opt for entrance exams, consuming two precious years of their youth. Imagine being a bright, ambitious teen with dreams and aspirations beyond the confines of textbooks and coaching centers. The pressure to succeed in these high-stakes exams forces countless students into an unrelenting grind, where the joy of learning is overshadowed by the fear of failure. Weekends and evenings, once filled with hobbies, friendships, and self-exploration, are now sacrificed at the altar of test preparation. This relentless cycle not only drains their mental and emotional well-being but also robs them of valuable experiences and memories that shape their formative years.
+
+As these young minds toil away, the world outside continues to evolve, offering myriad opportunities that extend beyond the narrow scope of entrance exams. The current system, with its singular focus on rote learning and standardized tests, fails to recognize and nurture the diverse talents and potential of each individual. It’s disheartening to see passionate artists, budding entrepreneurs, and innovative thinkers pigeonholed into a rigid framework that often leaves them disillusioned and burnt out. If we could shift our focus from this one-size-fits-all approach to a more holistic education system that values creativity, critical thinking, and practical skills, we would empower the next generation to pursue their true passions and contribute meaningfully to society. The change would not only liberate them from the shackles of an outdated system but also cultivate a generation of well-rounded, resilient, and inspired individuals ready to tackle the challenges of the future.
+
+

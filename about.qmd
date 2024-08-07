@@ -2,5 +2,34 @@
 title: "About"
 ---
 
-My name is Akhila Sunesh. I am a second year computer science student with minor in Computational Mathematics at Saintgits College of Engineering, Kottayam, Kerala, India.
-I am an avid learner. I love exploring new domains. 
+Home
+    Introduction Section
+        Name: Akhila Sunesh
+        Current Position: Second-year Computer Science student
+        Institution: Saintgits College of Engineering, Kottayam, Kerala, India
+About Me
+    Educational Background
+        Major: Computer Science Engineering
+        Minor: Computational Mathematics
+        Year: Second Year
+    Personal Attributes
+        Avid Learner: Continuously seeking knowledge
+        Explorer: Passionate about discovering new domains
+Interests and Hobbies
+    Tech Exploration
+        Programming: Enthusiastic about coding and software development
+        New Technologies: Keeping up-to-date with the latest in tech
+    Other Interests
+        Reading: Enjoying books on various subjects
+        Outdoor Activities: Engaging in sports and nature explorations
+Projects and Achievements
+    Project 1: Brief description of a notable project
+
+    Project 2: Brief description of another project
+
+    Achievements: List any awards or recognitions
+
+Contact
+    Email: akhilasunesh@gmail.com
+    LinkedIn: LinkedIn Profile
+    Discord: Discord Profile
