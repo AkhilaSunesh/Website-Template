@@ -2,34 +2,82 @@
 title: "About"
 ---
 
-Home
-    Introduction Section
-        Name: Akhila Sunesh
-        Current Position: Second-year Computer Science student
-        Institution: Saintgits College of Engineering, Kottayam, Kerala, India
-About Me
-    Educational Background
-        Major: Computer Science Engineering
-        Minor: Computational Mathematics
-        Year: Second Year
-    Personal Attributes
-        Avid Learner: Continuously seeking knowledge
-        Explorer: Passionate about discovering new domains
-Interests and Hobbies
-    Tech Exploration
-        Programming: Enthusiastic about coding and software development
-        New Technologies: Keeping up-to-date with the latest in tech
-    Other Interests
-        Reading: Enjoying books on various subjects
-        Outdoor Activities: Engaging in sports and nature explorations
-Projects and Achievements
-    Project 1: Brief description of a notable project
+# 🌟 **Home**
 
-    Project 2: Brief description of another project
+## Introduction Section
 
-    Achievements: List any awards or recognitions
+- **Name:** Akhila Sunesh
+- **Current Position:** Second-year Computer Science student
+- **Institution:** [Saintgits College of Engineering](https://saintgits.org/), Kottayam, Kerala, India
 
-Contact
-    Email: akhilasunesh@gmail.com
-    LinkedIn: LinkedIn Profile
-    Discord: Discord Profile
+---
+
+# 🛠️ **About Me**
+
+### 📚 **Educational Background**
+- **Bachelor of Technology:** Computer Science and Engineering
+  - **Institution:** Saintgits College of Engineering, Kottayam, Kerala
+  - **CGPA:** 9.21/10 (up to Semester 2)
+  - **Duration:** August 2023 – Present
+- **Class XII:** St. Antony’s Public School, Kottayam
+  - **Percentage:** 88%
+  - **Duration:** June 2020 – May 2023
+- **Class X:** The Indian High School, Dubai, U.A.E
+  - **Percentage:** 95%
+  - **Duration:** April 2008 – March 2020
+
+### 🌟 **Personal Attributes**
+- **Avid Learner:** Continuously seeking knowledge
+- **Explorer:** Passionate about discovering new domains
+
+---
+
+# 💡 **Interests and Hobbies**
+
+### 👩‍💻 **Tech Exploration**
+- **Programming:** Enthusiastic about coding and software development
+- **New Technologies:** Keeping up-to-date with the latest in tech
+
+### 📚 **Other Interests**
+- **Reading:** Enjoying books on various subjects
+- **Outdoor Activities:** Engaging in sports and nature explorations
+
+---
+
+# 🏆 **Projects and Achievements**
+
+### 🔧 **Projects**
+- **[JobFit - Resume ATS Scanner](https://github.com/AkhilaSunesh/JobFit)** | Python, JavaScript, SQL
+  - Developed a Resume ATS Scanner that allows users to upload their resumes in PDF format, get an estimated reading time, and receive a summary, ATS rating, and feedback based on the provided job description. The tool also allows users to ask specific questions about their resumes and compare multiple resumes to identify the best fit for a job.
+  - ![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)
+
+- **Resume Generator | HTML, CSS, JavaScript** (February 2024)
+  - Developed a resume generator allowing users to input desired values, which are then formatted into a professional resume.
+
+- **Software for an Innovative Vending Machine | Python, SQL** (November 2023)
+  - Created a software solution aimed at reducing plastic waste through an innovative vending machine concept.
+
+### 🏅 **Achievements**
+- **ACM Quiz:** Second Prize (May 2024)
+- **Google Girl Hackathon, India:** Selected Participant (April 2024)
+- **AI Quiz (College):** First Prize (December 2023)
+  - Demonstrated solid teamwork and time management skills.
+- **Mathematics Quiz (College):** Reached Final Stage (December 2023)
+
+
+### 📜 **Online Courses and Certifications**
+- **NPTEL - Introduction to Programming in C** (IIT Kanpur, April 2024)
+- **Coursera - Computational Thinking For Problem Solving** (University of Pennsylvania, September 2023)
+
+---
+
+# 📞 **Contact**
+
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akhila_sunesh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhila-sunesh) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilasunesh@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/akhila_sunesh)
+
+---
+
+*Page created with ❤️ by Akhila Sunesh*

@@ -1,0 +1,32 @@
+---
+title: "Currently Working On"
+---
+
+# "Success is the sum of small efforts, repeated day in and day out." — *Robert Collier*
+
+## 🌱 **Open-source**
+
+- **GSSOC'24 (Rank 118)**  
+  ![GSSOC Leaderboard](1.PNG)  
+  ![Contributor Badge](contributorbadge.png)  
+  [View Leaderboard](https://gssoc.girlscript.tech/leaderboard)
+
+## 💪 **She-fi Scholar**
+  ![She-fi Scholar Logo](shefi_logo.png)  
+  [Learn More](#)
+
+## 🔗 **Time-chain Labs Blockchain Intern**
+  ![Time-chain Labs Logo](timechainlabs_logo.png)  
+  [Explore Time-chain Labs](#)
+
+## 🇩🇪 **Learning German**
+  ![German Language](german_language.png)  
+  [Check My Progress](#)
+
+## 🎓 **Bridging College Studies and Extra-Curricular Activities**
+  ![Balancing Act](balance.png)  
+  [See How I Do It](#)
+
+---
+
+*Page created with dedication and continuous effort by Akhila Sunesh.*

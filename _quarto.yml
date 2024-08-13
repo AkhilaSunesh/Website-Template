@@ -2,19 +2,19 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "A Journey Within"
+  title: "This is me"
   
   navbar:
     left:
+      
       - href: index.qmd
         text: Home
-      - href: papers.qmd
-        text: Papers
-      - href: workshops.qmd
-        text: Workshops
+      - about.qmd      
+      - href: present.qmd
+        text: Current
       - href: blog.qmd
         text: Blog
-      - about.qmd
+      
   sidebar:
     style: "docked"
     logo: "./images/user_image.png"
@@ -23,26 +23,16 @@ website:
     contents:
       - icon: github
         text: Github
-        url: https://github.com
-      - icon: twitter
-        text: Twitter
-        url: https://twitter.com
+        url: https://github.com/AkhilaSunesh
+      - icon: instagram
+        text: Instagram
+        url: https://www.instagram.com/akhila_sunesh/
       - icon: Email
       - text: "Email"
-        url: mailto:siju.swamy@saintgits.org
-      - text: "ORCID"
-        url: https://orcid.org/<orcid-id>
-      - text: "Google Scholar"
-        url: https://scholar.google.com/citations?user=<google-scholar-user>
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "**Alert** - This Website is created using `Quarto` and Published as Github Pages"
-    type: primary
-    position: below-navbar
+        url: mailto:akhilasunesh@gmail.com
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
   
